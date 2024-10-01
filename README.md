@@ -1,6 +1,6 @@
 # IPL 2022 Team Performance Analysis - Streamlit App
 
-**App Link**: [Streamlit Deployment]("""add link here""")
+**App Link**: [Streamlit Deployment](add app link here)
 
 ## Overview
 This Streamlit app provides in-depth analysis of IPL 2022 team and player performances. It consists of three main sections:
@@ -21,4 +21,3 @@ This Streamlit app provides in-depth analysis of IPL 2022 team and player perfor
 
 ### 3. Performance Metrics
 - **Team Performance**: Compare IPL teams on average runs scored, wickets lost, runs conceded, and wickets taken per match.
-
