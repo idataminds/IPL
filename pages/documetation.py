@@ -2,6 +2,10 @@ import streamlit as st
 
 st.title("IPL 2022 Team Performance Analysis - Streamlit App Documentation")
 
+st.markdown("""
+**GitHub Repository**: [Link to GitHub Code](https://github.com/idataminds/Ipl)
+""")
+
 st.header("Overview")
 st.write("""
 This Streamlit project allows users to analyze IPL 2022 team performance across different phases of the game, 
